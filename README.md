@@ -11,7 +11,7 @@
 ## ⚙️ Instalación y Uso  
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Diaxz/Detector-Defectos-CV.git
+git clone https://github.com/Juandiaxz/Detector-de-Defectos.git
 cd Detector-Defectos-CV
 
 # Instalar dependencias
